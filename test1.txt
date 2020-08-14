@@ -1,0 +1,8 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 38E3-A040
+
+ Directory of C:\Users\Shailly\Desktop\SampleApp
+
+14-08-2020  13:49                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  164,563,476,480 bytes free
